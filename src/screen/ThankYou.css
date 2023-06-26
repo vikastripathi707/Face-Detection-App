@@ -1,0 +1,20 @@
+.thank-you-container {
+    text-align: center;
+    margin: 20px;
+}
+
+.thank-you-heading {
+    font-size: 32px;
+    color: #333;
+}
+
+.thank-you-message {
+    font-size: 18px;
+    color: #666;
+    margin-bottom: 10px;
+}
+
+.thank-you-image {
+    width: 200px;
+    margin-top: 20px;
+}
