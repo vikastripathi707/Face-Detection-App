@@ -1,7 +1,9 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-[Demo Video -:] https://www.linkedin.com/posts/vikastripathi707_everyone-facedetection-reactjs-activity-7078849150687023104-kqup?utm_source=share&utm_medium=member_desktop
+
+### Demo Video -: 
+https://www.linkedin.com/posts/vikastripathi707_everyone-facedetection-reactjs-activity-7078849150687023104-kqup?utm_source=share&utm_medium=member_desktop
 
 ## Available Scripts
 
