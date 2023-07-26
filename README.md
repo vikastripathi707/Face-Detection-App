@@ -2,6 +2,17 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+#Screenshots : 
+
+
+![image](https://github.com/vikastripathi707/Face-Detection-App/assets/86002620/78b6b2b4-b5f9-467e-af94-5522b4554669)  (Header)
+
+![image](https://github.com/vikastripathi707/Face-Detection-App/assets/86002620/145bdaf3-84dd-4e1d-8177-fe6e2cf3a5bd)  (Footer)
+
+![image](https://github.com/vikastripathi707/Face-Detection-App/assets/86002620/88a96c6d-1852-4a3c-8ea7-06cd6602a6b9) (Face Detection Page)
+
+
+
 ### Demo Video -: 
 https://www.linkedin.com/posts/vikastripathi707_everyone-facedetection-reactjs-activity-7078849150687023104-kqup?utm_source=share&utm_medium=member_desktop
 
